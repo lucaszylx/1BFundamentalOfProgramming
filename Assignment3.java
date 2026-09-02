@@ -37,6 +37,6 @@ public class Assignment3 {
         // Displays the GWA
         System.out.println("GWA: " + gwa);
 
-        //(fixed)
+        //https://github.com/lucaszylx/1BFundamentalOfProgramming
     }
 }
